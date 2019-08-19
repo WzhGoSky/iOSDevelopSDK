@@ -1,0 +1,26 @@
+//
+//  electronicSignaturePrefix.pch
+//  Pods
+//
+//  Created by Hayder on 2019/5/28.
+//
+
+#ifndef electronicSignaturePrefix_pch
+#define electronicSignaturePrefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "ElectronicSignatureBottomView.h"
+#import "ElectronicSignatureConfig.h"
+#import "ElectronicSignatureManager.h"
+#import "ElectronicSignatureTopView.h"
+#import "ElectronicSignatureView.h"
+#import "SignatureBoardView.h"
+#import "UIColor+SignatureExtension.h"
+#import "UIImage+SignatureExtension.h"
+
+
+
+
+#endif /* electronicSignaturePrefix_pch */
